@@ -1,3 +1,4 @@
+/*
 import React from "react";
 import blogData from "../data/blog";
 
@@ -13,3 +14,5 @@ function App() {
 }
 
 export default App;
+*/
+
